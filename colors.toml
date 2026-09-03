@@ -1,0 +1,28 @@
+mode = "dark"
+
+# UI Canvas & Text
+background = "#0c1322"
+foreground = "#e6f1fc"
+accent     = "#00e5ff"
+selection  = "#243a5e"
+muted      = "#536888"
+
+# Standard ANSI (Color 0 to 7)
+color0 = "#162035"  # Black (surface/shadow)
+color1 = "#ff2a6d"  # Red (laser/error)
+color2 = "#00e699"  # Green (system ok)
+color3 = "#e5b842"  # Yellow (warning)
+color4 = "#3894f5"  # Blue (steel plating)
+color5 = "#c044f5"  # Magenta (energy pulse)
+color6 = "#00e5ff"  # Cyan (cocytus breath)
+color7 = "#cad8ea"  # White (light armor text)
+
+# Bright ANSI (Color 8 to 15)
+color8  = "#405473" # Bright Black (comments/disabled)
+color9  = "#ff5792" # Bright Red (neon visor)
+color10 = "#33ffb8" # Bright Green
+color11 = "#ffe066" # Bright Yellow
+color12 = "#67b2ff" # Bright Blue (aurora light)
+color13 = "#da77ff" # Bright Magenta
+color14 = "#66f0ff" # Bright Cyan (glowing core)
+color15 = "#ffffff" # Bright White
