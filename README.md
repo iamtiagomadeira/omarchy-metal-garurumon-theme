@@ -18,6 +18,7 @@ Featuring a midnight steel canvas, laser-pulse magenta, cyber green, glowing arm
   - **Text Editors & CLI Tools** (Neovim, Btop, Starship, Helix, Lazygit)
   - **GUI Applications** (Chromium / Web browsers, VS Code, GNOME interface)
 - **Matching Wallpapers**: Ships with high-resolution Metal Garurumon wallpapers (`backgrounds/metal-garurumon.jpg`, `backgrounds/metal-garurumon-2.jpg`).
+- **Cinematic Screensaver**: 3-act terminal screensaver animation featuring the Digivice invocation, Metal Garurumon evolution, and Omarchy particle convergence.
 - **Icon Set**: Configured to pair seamlessly with `Yaru-blue`.
 
 ---
@@ -187,6 +188,10 @@ omarchy-metal-garurumon-theme/
 ├── backgrounds/
 │   ├── metal-garurumon.jpg   # Primary desktop wallpaper
 │   └── metal-garurumon-2.jpg # Alternate desktop wallpaper
+├── screensaver/
+│   ├── 01-digivice.txt        # Act I: Digivice Invocation
+│   ├── 02-metal-garurumon.txt # Act II: Metal Garurumon Evolution
+│   └── 03-omarchy.txt         # Act III: Omarchy Particle Convergence
 ├── colors.toml               # Core Omarchy palette configuration
 ├── icons.theme               # Icon theme declaration (Yaru-blue)
 ├── preview.png               # Theme screenshot preview
