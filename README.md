@@ -17,7 +17,7 @@ Featuring a midnight steel canvas, laser-pulse magenta, cyber green, glowing arm
   - **Terminals** (Alacritty, Foot, Kitty, Ghostty)
   - **Text Editors & CLI Tools** (Neovim, Btop, Starship, Helix, Lazygit)
   - **GUI Applications** (Chromium / Web browsers, VS Code, GNOME interface)
-- **Matching Wallpaper**: Ships with a high-resolution Metal Garurumon wallpaper (`backgrounds/metal-garurumon.jpg`).
+- **Matching Wallpapers**: Ships with high-resolution Metal Garurumon wallpapers (`backgrounds/metal-garurumon.jpg`, `backgrounds/metal-garurumon-2.jpg`).
 - **Icon Set**: Configured to pair seamlessly with `Yaru-blue`.
 
 ---
@@ -88,7 +88,9 @@ omarchy theme refresh
 
 ## 🖼️ Wallpaper Management
 
-The theme includes `backgrounds/metal-garurumon.jpg`.
+The theme includes wallpapers in `backgrounds/`:
+- `metal-garurumon.jpg`
+- `metal-garurumon-2.jpg`
 
 - **Cycle through backgrounds:**
   ```bash
@@ -183,7 +185,8 @@ To switch to another theme and remove Metal Garurumon:
 ```
 omarchy-metal-garurumon-theme/
 ├── backgrounds/
-│   └── metal-garurumon.jpg   # Themed desktop wallpaper
+│   ├── metal-garurumon.jpg   # Primary desktop wallpaper
+│   └── metal-garurumon-2.jpg # Alternate desktop wallpaper
 ├── colors.toml               # Core Omarchy palette configuration
 ├── icons.theme               # Icon theme declaration (Yaru-blue)
 ├── preview.png               # Theme screenshot preview
